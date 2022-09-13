@@ -1,0 +1,70 @@
+.leaflet-container {
+  width: 100% !important;
+  height: 100vh !important;
+}
+div {
+  font-family: 'Josefin Sans';
+}
+
+.color{
+  color: black !important;
+  font-size: 18px;
+  margin-left:10px;
+}
+
+.color:hover{
+  color:white !important;
+}
+
+.icon{
+  font-size:20px;
+}
+/* .visually-hidden{
+  display: none !important;
+}
+.carousel .carousel-control-next-icon, .carousel-control-prev-icon{
+  width:20px !important;
+  height:20px !important;
+} */
+
+.carousel-inner {
+  max-height: 450px;
+}
+.navbar-brand{
+  font-family: 'Seaweed Script';
+}
+.aqua{
+  color: #32C4D7;
+}
+.text-new{
+  font-family: 'Niconne';
+}
+.grey-color{
+  color: #6a6969 !important;
+}
+.aqua-color{
+  color: #22ABED;
+}
+.react-3d-carousel .slider-container .slider-left div {
+  color: black !important;
+  border-top:0px !important;
+  border-left:0px !important;
+  border-right:0px !important;
+  border-bottom:0px !important;
+  font-size:20px;
+}
+.react-3d-carousel .slider-container .slider-right div {
+  color: black !important;
+  border-top:0px !important;
+  border-left:0px !important;
+  border-right:0px !important;
+  border-bottom:0px !important;
+  font-size:20px;
+}
+.navbar.navbar-dark .navbar-toggler-icon{
+  font-size:25px;
+}
+.card{
+  box-shadow : none !important;
+  background-color: transparent  !important;
+}
